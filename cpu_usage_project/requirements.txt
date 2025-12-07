@@ -1,0 +1,11 @@
+numpy
+xgboost
+shap
+optuna
+scikit-learn
+pandas
+seaborn
+matplotlib
+joblib
+mlflow-skinny==2.14.0
+dvc==3.43.1
